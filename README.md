@@ -9,6 +9,7 @@ to download the filter. Incase you download it then you may launch the same by e
 (even the double click should work but some systems have issues in associating a jar file with the executor): 
 
 java -jar client.jar
+
 How to configure the spam filter?
 
 1. The first step is to train the spam filter on a set of spam and ham(non-spam) messages. 
