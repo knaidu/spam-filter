@@ -4,8 +4,8 @@ How to load the spam filter?
 
 Click here to launch spam filter using Java Web Start.
 
-If you do not have Java Web Start installed on your system then click here to download the filter. 
-Incase you download it then you may launch the same by executing following command 
+If you do not have Java Web Start installed on your system then click here (http://www.cise.ufl.edu/~kmehrotr/filter/client.jar) 
+to download the filter. Incase you download it then you may launch the same by executing following command 
 (even the double click should work but some systems have issues in associating a jar file with the executor): 
 
 java -jar client.jar
